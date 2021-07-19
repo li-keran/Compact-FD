@@ -1,2 +1,2 @@
 # Compact-FD
-Compact Finite Difference Scheme for Wave Equation
+![alt text](https://github.com/li-keran/Compact-FD/blob/main/readme.jpg?raw=true)
