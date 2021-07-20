@@ -8,4 +8,4 @@
 
 https://user-images.githubusercontent.com/53129412/126117052-f49d7928-8270-461c-9231-e6ad7227db73.mp4
 
-The reflection and refraction of the wave can bee seen when the wave passes through the line where the velocity changes, i.e. the red line.
+The reflection and refraction of the wave can bee seen when the wave passes through the line where the velocity changes.
